@@ -1,0 +1,3 @@
+site.com
+http://site.com
+https://site.com
